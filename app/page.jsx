@@ -1,6 +1,6 @@
 import Feed from '@components/Feed';
 
-//test
+//test comment
 const Home = () => {
   return (
     <section className='w-full flex-center flex-col'>
