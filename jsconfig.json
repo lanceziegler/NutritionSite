@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      //! original: @/* ... removed / to tell it to take it from root route and take everything (for globals.css)
+      "@*": ["./*"]
     }
   }
 }
