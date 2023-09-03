@@ -1,5 +1,6 @@
 'use client';
 
+//TODO NEED TO MAKE SURE THAT IF A USER IS DELETED, A BACKUP IMAGE IS LOADED INTO THEIR POST
 import { useState } from 'react';
 import Image from 'next/image';
 import { useSession } from 'next-auth/react';
